@@ -11,3 +11,15 @@ A fehér tigrisek testfelépítése és biológiai jellemzőik alapvetően megeg
 ### A fehér szőrzet hatása a túlélésre
 
 Bár a fehér tigrisek rendkívüli szépségükkel elbűvölik az embereket, fontos megjegyezni, hogy a génmutációval járó színesedés nem mindig előnyös a tigrisek számára. A fehér szőrzet miatt ezek az állatok kevésbé álcázottak, és nehezebben olvadnak bele a természetes környezetükbe, ami megnehezíti számukra a vadászatot és a túlélést.
+
+##Genetikai kihívások
+
+Az első fehér tigris, akit dokumentáltak, egy **Mohan** nevű hím tigris volt, és 1951-ben született Indiában. Mohant rendkívüli vonzereje miatt sokáig fogságban tartották, és utódokat is nemzett. Azóta a fehér tigriseket mesterségesen tenyésztették, hogy kihasználják különleges megjelenésüket, különösen cirkuszi előadásokban és állatkertekben. Azonban a túlzott szaporításuk és az alacsony genetikai változatosság miatt számos egészségi problémával kell szembenézniük.
+
+A fehér tigrisekkel kapcsolatos leggyakoribb genetikai problémák a következőek:
+
+- Szemproblémák: A fehér tigrisek gyakran szenvednek nystagmustól, vagyis a szemek akaratlan mozgásától, ami látásproblémákat okozhat.
+
+- Bél- és emésztési zavarok: A fehér tigrisek néha szenvednek emésztési problémáktól, mivel az ősi genetikai állományuk gyengébb, és nem rendelkeznek a normál bengáli tigrisek erősebb immunrendszerével.
+
+- Csont- és izomrendellenességek: A túlzott inbreeding (rokonok közötti párosodás) gyakran vezet csontproblémákhoz, például görbe lábakhoz vagy ízületi rendellenességekhez.
