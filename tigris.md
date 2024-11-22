@@ -9,3 +9,11 @@ A fehér tigrisek testfelépítése és biológiai jellemzőik alapvetően megeg
 A fehér szőrzet hatása a túlélésre
 
 Bár a fehér tigrisek rendkívüli szépségükkel elbűvölik az embereket, fontos megjegyezni, hogy a génmutációval járó színesedés nem mindig előnyös a tigrisek számára. A fehér szőrzet miatt ezek az állatok kevésbé álcázottak, és nehezebben olvadnak bele a természetes környezetükbe, ami megnehezíti számukra a vadászatot és a túlélést.
+
+## A fehér tigrisek védelme és megőrzése
+
+Manapság a fehér tigrisek állatkertekben és szórakoztatóipari eseményeken is népszerűek, ám egyre inkább hangsúlyozzák a megőrzési programok fontosságát. Mivel ezek az állatok sok esetben genetikai problémákkal küzdenek, fontos, hogy az emberek tisztában legyenek azzal, hogy a fehér tigris nemcsak a természetes kiválóság, hanem a genetikai diverzitás megőrzésének is fontos része. A fehér tigrisekkel kapcsolatos felelősségteljes tenyésztési és védelmi programok segíthetnek abban, hogy ezek a lenyűgöző állatok ne csupán látványosságként, hanem a természetvédelmi erőfeszítések részeként is szerepeljenek.
+
+A fehér tigris helyzete a természetvédelem szempontjából összetett, mivel az állatkertekben történő tartás és tenyésztés gyakran nem segíti elő a faj valódi megőrzését. A fehér tigrisek szaporítása nem járul hozzá a vadon élő bengáli tigris populációjának növeléséhez, és a faj megmentését is inkább a természetes élőhelyek megóvásával és a vadon élő populációk védelmével kellene támogatni.
+
+[További információk](https://hu.wikipedia.org/wiki/Feh%C3%A9r_tigris)
